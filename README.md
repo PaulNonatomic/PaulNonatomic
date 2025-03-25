@@ -1,0 +1,19 @@
+# Hey there! 👋 I'm Paul Stamp (Stampy)
+
+Welcome to my GitHub! I'm a Game & Experience Developer, I've spend the last 20 years building games, apps and installations. I love collaborating, learning, and sharing what I create.
+
+## 🌟 Featured Projects
+- **[VSM2](https://github.com/PaulNonatomic/VisualStateMachineV2)**: [A visual editor for designing state machines in Unity]
+- **[Locator](https://github.com/PaulNonatomic/ServiceLocator)**: [A flexible & efficient way to manage and access services in Unity]
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulNonatomic&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulNonatomic&layout=compact&theme=radical)
+
+## 📫 Let’s Connect!
+- [LinkedIn](https://www.linkedin.com/in/paulstamp/)
+- [Twitter/X](https://x.com/paulstamp)
+- [Email](mailto:paul@nonatomic.co.uk)
+
+Feel free to reach out—I’m always up for a chat about code, tech, or rockets!
