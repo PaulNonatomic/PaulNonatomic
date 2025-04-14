@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Paul Stamp (Stampy)
 
-Welcome to my GitHub! I'm a Game & Experience Developer, I've spend the last 20 years building games, apps and installations. I love collaborating, learning, and sharing what I create.
+Welcome to my GitHub! I'm a Game & Experience Developer, I've spent the last 20 years building games, apps and installations. I love collaborating, learning, and sharing what I create.
 
 ## 🌟 Featured Projects
 - **[VSM2](https://github.com/PaulNonatomic/VisualStateMachineV2)**: A visual editor for designing state machines in Unity
