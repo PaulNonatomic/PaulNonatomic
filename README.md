@@ -12,6 +12,7 @@ Welcome to my GitHub! I'm a Game & Experience Developer, I've spent the last 20 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulNonatomic&layout=compact&theme=radical)
 
 ## 📫 Let’s Connect!
+- [Website](https://www.nonatomic.co.uk)
 - [LinkedIn](https://www.linkedin.com/in/paulstamp/)
 - [Twitter/X](https://x.com/paulstamp)
 - [Email](mailto:paul@nonatomic.co.uk)
