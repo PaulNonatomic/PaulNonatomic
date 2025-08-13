@@ -5,7 +5,8 @@ Welcome to my GitHub! I'm a Game & Experience Developer, I've spent the last 20 
 ## 🌟 Featured Projects
 - **[VSM2](https://github.com/PaulNonatomic/VisualStateMachineV2)**: A visual editor for designing state machines in Unity
 - **[ServiceKit](https://github.com/PaulNonatomic/ServiceKit)**: A flexible & efficient way to manage and access services in Unity (Work in progress)
-- **[Locator](https://github.com/PaulNonatomic/ServiceLocator)**: Predecessor to ServiceKit that is more battle tested and fully featured than ServiceKit. 
+  - **[ServiceKitAnalyzers](https://github.com/PaulNonatomic/ServiceKitAnalyzers)**: A set of Roslyn analyzers for ServiceKit
+- **[Locator](https://github.com/PaulNonatomic/ServiceLocator)**: Predecessor to ServiceKit that is more battle tested.
 - **[ScaffoldKit](https://github.com/PaulNonatomic/ScaffoldKit)**: Generate Unity project structures like directory structures or assembly layouts instantly
 
 ## 📊 GitHub Stats
