@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a Game & Experience Developer, I've spent the last 20 
   - **[ServiceKitAnalyzers](https://github.com/PaulNonatomic/ServiceKitAnalyzers)**: A set of Roslyn analyzers for ServiceKit
 - **[Locator](https://github.com/PaulNonatomic/ServiceLocator)**: Predecessor to ServiceKit that is more battle tested.
 - **[ScaffoldKit](https://github.com/PaulNonatomic/ScaffoldKit)**: Generate Unity project structures like directory structures or assembly layouts instantly
-- **[TimerKit](https://github.com/PaulNonatomic/TimerKit)**:
+- **[TimerKit](https://github.com/PaulNonatomic/TimerKit)**: A versatile, easy-to-use timer component designed for Unity
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulNonatomic&show_icons=true&theme=radical)
