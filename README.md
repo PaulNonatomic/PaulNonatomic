@@ -3,6 +3,7 @@
 Welcome to my GitHub! I'm a Game & Experience Developer, I've spent the last 20 years building games, apps and installations. I love collaborating, learning, and sharing what I create.
 
 ## 🌟 Featured Projects
+- **[Unity Coding Standards](https://github.com/PaulNonatomic/CodingStandards)**: The standards by which I try to operate.
 - **[VSM2](https://github.com/PaulNonatomic/VisualStateMachineV2)**: A visual editor for designing state machines in Unity
 - **[ServiceKit](https://github.com/PaulNonatomic/ServiceKit)**: A flexible & efficient way to manage and access services in Unity (Work in progress)
   - **[ServiceKitAnalyzers](https://github.com/PaulNonatomic/ServiceKitAnalyzers)**: A set of Roslyn analyzers for ServiceKit
