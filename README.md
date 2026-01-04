@@ -35,13 +35,13 @@ Welcome to my GitHub! I'm a Game & Experience Developer, I've spent the last 20 
 
 ## GitHub Stats
 <div>
-<img align="center" src="https://github-readme-stats-nonatomic.vercel.app/api?username=PaulNonatomic&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" width="30%" />
+<img align="center" src="https://github-readme-stats-nonatomic.vercel.app/api?username=PaulNonatomic&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" width="50%" />
 </div>
 <div>
-<img align="center" src="https://github-readme-stats-nonatomic.vercel.app/api/top-langs/?username=PaulNonatomic&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="30%" />
+<img align="center" src="https://github-readme-stats-nonatomic.vercel.app/api/top-langs/?username=PaulNonatomic&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="50%" />
 </div>
 <div>
-<img align="center" src="https://github-readme-streak-stats-three-azure.vercel.app/?user=PaulNonatomic&theme=tokyonight&hide_border=true" width="30%" />
+<img align="center" src="https://github-readme-streak-stats-three-azure.vercel.app/?user=PaulNonatomic&theme=tokyonight&hide_border=true" width="50%" />
 </div>
 
 ## Let's Connect!
