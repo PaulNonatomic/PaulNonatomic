@@ -17,9 +17,11 @@ Welcome to my GitHub! I'm a Game & Experience Developer, I've spent the last 20 
 - **[Demonstrable](https://demonstrable.dev/)**: Link documentation, portfolios, and social posts to live demos with feedback and engagement tracking
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulNonatomic&show_icons=true&theme=radical)
+![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulNonatomic&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulNonatomic&layout=compact&theme=radical)
+![Paul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulNonatomic&layout=compact&theme=dark)
+
+![Paul's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=PaulNonatomic&theme=dark)
 
 ## 📫 Let’s Connect!
 - [Website](https://www.nonatomic.co.uk)
