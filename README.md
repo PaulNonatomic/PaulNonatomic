@@ -11,6 +11,11 @@ Welcome to my GitHub! I'm a Game & Experience Developer, I've spent the last 20 
 - **[ScaffoldKit](https://github.com/PaulNonatomic/ScaffoldKit)**: Generate Unity project structures like directory structures or assembly layouts instantly
 - **[TimerKit](https://github.com/PaulNonatomic/TimerKit)**: A versatile, easy-to-use timer component designed for Unity
 
+## 🚧 Projects in Development
+- **VSM3**: A rewrite of VSM2 featuring blackboard support, typed state machines, improved serialization and streamlined workflows
+- **[PkgLnk](https://pkglnk.dev/)**: Unity package analytics
+- **[Demonstrable](https://demonstrable.dev/)**: Link documentation, portfolios, and social posts to live demos with feedback and engagement tracking
+
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulNonatomic&show_icons=true&theme=radical)
 
