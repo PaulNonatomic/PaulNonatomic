@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm a Game & Experience Developer, I've spent the last 20 
 </div>
 <div>
 <a href="https://github.com/PaulNonatomic/svelte-theme-picker"><img src="https://github-readme-stats-nonatomic.vercel.app/api/pin/?username=PaulNonatomic&repo=svelte-theme-picker
-&theme=tokyonight&hide_border=true&description_lines_count=2" width="400" /></a>
+&theme=tokyonight&hide_border=true&description_lines_count=2&cache_seconds=1800" width="400" /></a>
 </div>
 
 ## Projects in Development
