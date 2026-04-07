@@ -44,6 +44,10 @@ If you like my work then please consider showing your support by buying me a bre
 - **NeedScope** *(stealth)* - Scrapes the web to build a catalogue and repository of human needs across gaming and SaaS products
 - **Vibescope** *(stealth)* - A tool to aid context switching and agent collaboration across multiple agentically developed projects
 - **Fiddlewith.ai** *(stealth)* - An AI curriculum and playground for young people to learn about the fundamental building blocks of AI systems, from neurons and perceptrons to transformers and diffusion
+- **Freight.direct** *(stealth)* - A direct freight marketplace where Couriers find loads and Hauliers find couriers
+- **[Pkglnk](https://pkglnk.dev)** - A Unity package directory
+
+[![pkglnk](https://www.pkglnk.dev/share/card.svg)](https://www.pkglnk.dev)
 
 ## GitHub Stats
 <div>
