@@ -38,7 +38,7 @@ If you like my work then please consider showing your support by buying me a bre
 <a href="https://www.buymeacoffee.com/nonatomic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## What I'm Working On
-- **CrowdGame** - Building a platform for distributing and scheduling mass participation games for live streaming and events
+- **CrowdGame** - Building a platform for distributing and scheduling Unity based mass participation games for live streaming and events
 - **Visual State Machine V3** - A from-scratch rewrite of VSM2 with a focus on better code integration and more fleshed out, complex examples
 - **[Sobr.me](https://sobr.me)** - A sobriety tracker designed to simplify the tracking process and maximise the drive to build dry streaks
 - **NeedScope** *(stealth)* - Scrapes the web to build a catalogue and repository of human needs across gaming and SaaS products
