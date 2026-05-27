@@ -1,4 +1,4 @@
-## Paul Stamp — Nonatomic
+## Paul Stamp (Stampy) — Nonatomic
 
 Senior game developer and creative technologist. Twenty years of Unity,
 VR/AR and AI tooling. Currently focused on location-based gaming
