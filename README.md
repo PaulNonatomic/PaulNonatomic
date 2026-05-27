@@ -17,22 +17,28 @@ venues end-to-end at [Nonatomic](https://nonatomic.co.uk).
 
 ## Open Source
 
+Unity packages I maintain for the work I do:
+
 <div>
 <a href="https://github.com/PaulNonatomic/VisualStateMachineV2"><img src="https://github-readme-stats-nonatomic.vercel.app/api/pin/?username=PaulNonatomic&repo=VisualStateMachineV2&theme=tokyonight&hide_border=true&description_lines_count=2" width="400" /></a>
 <a href="https://github.com/PaulNonatomic/ServiceKit"><img src="https://github-readme-stats-nonatomic.vercel.app/api/pin/?username=PaulNonatomic&repo=ServiceKit&theme=tokyonight&hide_border=true&description_lines_count=2" width="400" /></a>
 </div>
 <div>
-<a href="https://github.com/PaulNonatomic/ServiceLocator"><img src="https://github-readme-stats-nonatomic.vercel.app/api/pin/?username=PaulNonatomic&repo=ServiceLocator&theme=tokyonight&hide_border=true&description_lines_count=2" width="400" /></a>
 <a href="https://github.com/PaulNonatomic/ScaffoldKit"><img src="https://github-readme-stats-nonatomic.vercel.app/api/pin/?username=PaulNonatomic&repo=ScaffoldKit&theme=tokyonight&hide_border=true&description_lines_count=2" width="400" /></a>
-</div>
-<div>
 <a href="https://github.com/PaulNonatomic/TimerKit"><img src="https://github-readme-stats-nonatomic.vercel.app/api/pin/?username=PaulNonatomic&repo=TimerKit&theme=tokyonight&hide_border=true&description_lines_count=2" width="400" /></a>
-<a href="https://github.com/PaulNonatomic/CodingStandards"><img src="https://github-readme-stats-nonatomic.vercel.app/api/pin/?username=PaulNonatomic&repo=CodingStandards&theme=tokyonight&hide_border=true&description_lines_count=2" width="400" /></a>
 </div>
+
+And the directory that hosts them:
+
 <div>
-<a href="https://github.com/PaulNonatomic/svelte-theme-picker"><img src="https://github-readme-stats-nonatomic.vercel.app/api/pin/?username=PaulNonatomic&repo=svelte-theme-picker&theme=tokyonight&hide_border=true&description_lines_count=2&cache_seconds=1800" width="400" /></a>
 <a href="https://github.com/PaulNonatomic/pkglnk-unity"><img src="https://github-readme-stats-nonatomic.vercel.app/api/pin/?username=PaulNonatomic&repo=pkglnk-unity&theme=tokyonight&hide_border=true&description_lines_count=2" width="400" /></a>
 </div>
+
+### Elsewhere
+
+- Site & portfolio — [nonatomic.co.uk](https://nonatomic.co.uk)
+- Blog (AI tooling, gamedev, the editor-engineer shift) — [nonatomic.co.uk/blog](https://nonatomic.co.uk/blog)
+- LinkedIn — [/in/paulnonatomic](https://linkedin.com/in/paulnonatomic)
 
 ## Support
 If you like my work then please consider showing your support by buying me a brew
