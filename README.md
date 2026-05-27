@@ -1,6 +1,8 @@
-# Hey there! 👋 I'm Paul Stamp (Stampy)
+## Paul Stamp — Nonatomic
 
-Welcome to my GitHub! I'm a Game & Experience Developer, I've spent the last 20 years building games, apps and installations. I love collaborating, learning, and sharing what I create.
+Senior game developer and creative technologist. Twenty years of Unity,
+VR/AR and AI tooling. Currently focused on location-based gaming
+venues end-to-end at [Nonatomic](https://nonatomic.co.uk).
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -13,7 +15,7 @@ Welcome to my GitHub! I'm a Game & Experience Developer, I've spent the last 20 
 ![Flash](https://img.shields.io/badge/Flash%20AS3-CC0000?style=flat&logo=adobe&logoColor=white)
 ![Haxe](https://img.shields.io/badge/Haxe-EA8220?style=flat&logo=haxe&logoColor=white)
 
-## Featured Projects
+## Open Source
 
 <div>
 <a href="https://github.com/PaulNonatomic/VisualStateMachineV2"><img src="https://github-readme-stats-nonatomic.vercel.app/api/pin/?username=PaulNonatomic&repo=VisualStateMachineV2&theme=tokyonight&hide_border=true&description_lines_count=2" width="400" /></a>
