@@ -34,6 +34,17 @@ And the directory that hosts them:
 <a href="https://github.com/PaulNonatomic/pkglnk-unity"><img src="https://github-readme-stats-nonatomic.vercel.app/api/pin/?username=PaulNonatomic&repo=pkglnk-unity&theme=tokyonight&hide_border=true&description_lines_count=2" width="400" /></a>
 </div>
 
+Other open source projects:
+
+<div>
+<a href="https://github.com/PaulNonatomic/console-adventure-studio"><img src="https://github-readme-stats-nonatomic.vercel.app/api/pin/?username=PaulNonatomic&repo=console-adventure-studio&theme=tokyonight&hide_border=true&description_lines_count=2" width="400" /></a>
+<a href="https://github.com/PaulNonatomic/console-adventure"><img src="https://github-readme-stats-nonatomic.vercel.app/api/pin/?username=PaulNonatomic&repo=console-adventure&theme=tokyonight&hide_border=true&description_lines_count=2" width="400" /></a>
+</div>
+<div>
+<a href="https://github.com/PaulNonatomic/console-shell"><img src="https://github-readme-stats-nonatomic.vercel.app/api/pin/?username=PaulNonatomic&repo=console-shell&theme=tokyonight&hide_border=true&description_lines_count=2" width="400" /></a>
+<a href="https://github.com/PaulNonatomic/CodingStandards"><img src="https://github-readme-stats-nonatomic.vercel.app/api/pin/?username=PaulNonatomic&repo=CodingStandards&theme=tokyonight&hide_border=true&description_lines_count=2" width="400" /></a>
+</div>
+
 ### Elsewhere
 
 - Site & portfolio — [nonatomic.co.uk](https://nonatomic.co.uk)
